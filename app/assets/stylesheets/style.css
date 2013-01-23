@@ -1,0 +1,14 @@
+
+.container {
+	border: 1px dotted red;
+	}
+
+.sidebar {
+	background-color: #BBD8E9;
+	height: 300px;
+	}
+	
+.body {
+	background-color: #DCEAF4;
+	height: 300px;
+	}
