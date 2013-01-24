@@ -57,4 +57,5 @@ Testproj::Application.routes.draw do
   # match ':controller(/:action(/:id))(.:format)'
 
   match '/'=> "pages#index"
+  match '/about'=> "pages#about"
 end
